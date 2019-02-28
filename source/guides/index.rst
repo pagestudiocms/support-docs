@@ -1,10 +1,15 @@
+Guides 
+========
 
-Guides
-======================================
-
-The guides directory contains articles too general to be categorized.
-
+.. contents::
+   :local:
+   :depth: 2
+   
+   
 .. toctree::
-	:titlesonly:
     :maxdepth: 1
-    
+
+    signing-up
+    exploring-pagestudio
+    content-overview
+    creating-pages
