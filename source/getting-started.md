@@ -12,6 +12,9 @@ To make it possible for any individual to create their own websites and share th
 
 The first steps to a great new website is to [create an account](http://pagestudiocms.com/template). This hands on approach allows you to explore and demo the features available. 
 
+### What You'll Need
+To create [pagestudio] websites you'll need access to a computer or laptop. The drag and drop builder is optimized for desktop/laptop experience.
+
 <hr />
 
 ## Signing Up
@@ -27,10 +30,6 @@ The first steps to a great new website is to [create an account](http://pagestud
   * Using the file manager 
 * Making changes to the navigation 
 * Search Engine Optimization (SEO)
-
-## What You'll Need
-
-To create [pagestudio] websites you'll need access to a computer or laptop. The drag and drop builder is optimized for desktop/laptop experience.
 
 [pagestudio]: http://pagestudiocms.com
 

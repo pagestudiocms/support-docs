@@ -11,7 +11,7 @@ $static-img:                          "../img/";
 // // Code colors
 // $text-viewcode-color:                 $green;
 // $text-codexref-color:                 $text-color;
-$link-color:                             #0099E5; // #2980B9;
+$link-color:                             #267df4; // #0099E5; // #2980B9;
 
 // // Definition list colors
 // $class-color:                         $blue;
@@ -61,20 +61,26 @@ $sidebar-nav-border-color:               #E3EBF0 !default;
 // // Sphinx highlight color
 // $highlight-color:                     $yellow;
 
-$content-width:                          100%; 
+$content-width:                           100%; 
 
-// $base-font-family:                    "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
-$base-font-family:                    'Open Sans', Arial, sans-serif; 
-$custom-font-family:                  $base-font-family;
-$custom-font-family2:                 Georgia, serif;
-$code-font-family:                    Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
-
-$nav-content-wrap-bg:                 #FFF !default;
-
-// Code block 
-$code-block-bg:                       #FAFAFA;
-$code-block-border:                   #e5e5e5; 
+// $base-font-family:                     "Lato", "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+$base-font-family:                        'Open Sans', Arial, sans-serif; 
+$custom-font-family:                      $base-font-family;
+$custom-font-family2:                     Georgia, serif;
+$code-font-family:                        Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+   
+$nav-content-wrap-bg:                     #FFF !default;
+   
+// Code block    
+$code-block-bg:                           #FAFAFA;
+$code-block-border:                       #e5e5e5; 
 
 // Table colors 
-$table-cell-bg-color:                       #FAFAFA !default; // Formerly #f3f6f6
-$table-cell-border-color:                   #E5E5E5 !default; // Formerly #f3f6f6
+$table-cell-bg-color:                     #FAFAFA !default; // Formerly #f3f6f6
+$table-cell-border-color:                 #E5E5E5 !default; // Formerly #f3f6f6
+
+
+// Sidebar colors 
+$sidebar-bg-color:                        #FFF;
+$sidebar-title-bg-color:                  #FAFAFA;
+$sidebar-border-bg-color:                 #E5E5E5;

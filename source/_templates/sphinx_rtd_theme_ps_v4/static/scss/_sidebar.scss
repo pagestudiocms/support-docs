@@ -1,0 +1,10 @@
+
+.rst-content .sidebar {
+  background: $sidebar-bg-color;
+  background-color: $sidebar-bg-color;
+  border-color: $sidebar-border-bg-color;
+  .first.sidebar-title {
+    background: $sidebar-title-bg-color;
+    border-bottom: 1px solid $sidebar-border-bg-color;
+  }
+}

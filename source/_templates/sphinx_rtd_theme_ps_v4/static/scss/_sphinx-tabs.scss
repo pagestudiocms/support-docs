@@ -1,0 +1,29 @@
+.sphinx-tabs {
+  .ui.tabular.menu {
+    border-color: #E5E5E5 !important;
+    .item {
+      color: #000 !important;
+      font-size: 0.9em;
+      padding: 8px 12px;
+    }
+    .active {
+      &.item {
+        color: #000 !important;
+        font-size: 0.9em;
+        border-radius: 2px !important;
+        border-color: #E5E5E5 !important;
+      }
+    }
+  }
+  .ui {
+    &.sphinx-menu a.item {
+      color: $link-color;
+    }
+    // &.attached {
+      &.sphinx-tab {
+        border-radius: 0;
+        border-color: #E5E5E5 !important;
+      }
+    // }
+  }
+}
