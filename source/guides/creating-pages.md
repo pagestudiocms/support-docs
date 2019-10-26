@@ -11,8 +11,9 @@ Creating Pages
 
 ## How to create a page 
 
-  You create a page by clicking on the pages tab, then by clicking on + icon in the page panel. Give your page a title and add any desired metadata, featured image, etc.
-  (show how-to-video here).
+You create a page by clicking on the pages tab, then by clicking on + icon in the page panel. Give your page a title and add any desired metadata, featured image, etc.
+  
+`[show how-to-video here]`
   
 ### Adding content to a page (blocks)
 
