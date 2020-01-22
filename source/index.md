@@ -27,6 +27,12 @@ To create [pagestudio] websites you will need access to a computer or laptop, ac
 
 ## Getting to know the platform 
 
+* Account Center
+* Accessing Your Website For Editing 
+* Navigating the site manager
+* Pages and Blocks
+* The Filemanager
+
 ## Building your first website  
 
 * Creating pages 

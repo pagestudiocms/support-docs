@@ -2,7 +2,7 @@ Blocks
 ======
 
 **What are blocks?** 
-In the PageStudio ecosystem **blocks** are a type of plugin. They are components of the [visual editor](http://#) which when dragged unto the [Visual Editor](http://) renders HTML content. They can be rearranged and combined with other blocks on a page to create a custom layout. Each block is designed to add different types of content to most areas of your site, including:
+In the PageStudio ecosystem **blocks** are a type of plugin. They are components of the [Visual Editor](http://) which renders HTML content. They can be rearranged and combined with other blocks on a page to create a custom layout. Each block is designed to add different types of content to most areas of your site, including:
 
 * Regular pages
 * Blog posts
