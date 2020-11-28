@@ -9,9 +9,10 @@ Guides
 
 ```eval_rst
 .. toctree::
-    :glob:
     :maxdepth: 2
     :hidden:
 
-    *
+    signing-up
+    exploring-pagestudio
+    creating-pages
 ```

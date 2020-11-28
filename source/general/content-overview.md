@@ -42,16 +42,16 @@ Like **regular pages** these pages allow you to attach [blocks] to make up your 
 
 ## Images 
 
-Currently there is a max size 30MB limit to the size of video and image you can upload.
+Currently there is a 2MB size limit per video and image files you can upload. Learn more about images by reading the [Images](/general/images) page.
 
 ## Videos 
 
-We recommend uploading your videos to a platform like YouTube or Vimeo, and others like them, and then use the [Video block](#) to display them on your website. Currently there is a max size 30MB limit to the size of video and image you can upload.
+We strongly recommend uploading your videos to a platform like YouTube or Vimeo, and others like them, and then use the [Video block](#) to display them on your website. Currently there is a 2MB size limit to video and image files you upload.
 
 ## Galleries 
 
-After you have uploaded your images you can organize them into [Galleries](../galleries-and-photo-albums.html). You can then embed the created galleries into your website using the [Galleries block](#).
+After you have uploaded your images you can organize them into [Galleries](galleries-and-photo-albums.html). You can then embed the created galleries into your website using the [Galleries block](#).
 
 ## Blocks 
 
-Blocks are small reusable components that you embed on a page and rearrange, via drag and drop, to present your content. 
+Blocks are small reusable components that you embed on a page and rearrange, via drag and drop, to present your content. Learn more about Blocks by reading the [Blocks](/general/blocks) page.

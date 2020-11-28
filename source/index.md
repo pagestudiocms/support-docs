@@ -13,19 +13,13 @@ PageStudio is a content management system (CMS) featuring an easy to use drag an
 
 <hr>
 
-## Initial steps 
-
-The first steps to a great new website is to [create an account](http://pagestudiocms.com/template). This hands on approach allows you to explore and demo the features available. 
-
-**What You'll Need**
-
-To create [pagestudio] websites you will need access to a computer or laptop, access to the internet, and a modern web browser (Internet Explorer not supported). The drag and drop builder is optimized for desktop/laptop experience.
-
-<hr />
-
 ## Signing Up
 
-## Getting to know the platform 
+Take the first step in creating a great website &mdash; [create an account](/guides/signing-up). The [Signing Up](/guides/signing-up) page will guide you through the account create process and what to expect after.
+
+## Exploring PageStudio
+
+Get to know the platform and how to get around. 
 
 * Account Center
 * Accessing Your Website For Editing 
